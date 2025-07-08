@@ -41,9 +41,9 @@ pip install -r requirements.txt
 - --temperature: Sampling temperature for the model
 - --output: Output path for the annotated results
 - --api_endpoint: API endpoint for LLM inference
-- --api_key: Your API key for authentication
-- --prompt_type: Type of prompt (default or bias)
--  If --prompt_type bias, specify --bias_type as either female or male.
+- --api_key: API key for authentication
+- --prompt_type: Type of prompt (basic or with bias)
+-  - If --prompt_type bias, specify --bias_type as either female or male.
   
 
 
