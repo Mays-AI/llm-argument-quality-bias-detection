@@ -1,7 +1,7 @@
-# LLM-based Argument Annotation & Bias Detection
+# LLM-based Argument Quality Annotation & Bias Detection
 
 
-This project explores the annotation of financial arguments for quality and bias via large language models (LLMs).
+This project explores the annotation of financial arguments for quality and bias detection via large language models (LLMs).
 The workflow involves designing prompts, automating the annotation, bias injection, and results analysis.
 We utilize a publicly available dataset of [FinArgQuality](https://github.com/Alaa-Ah/The-FinArgQuality-dataset-Quality-of-managers-arguments-in-Eearnings-Conference-Calls).
 
